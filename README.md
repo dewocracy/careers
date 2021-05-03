@@ -2,7 +2,9 @@
 
 Feel free to subscribe to this repo to get notified of new job offers!
 
-Each file in the repo represents a position.
+Opened positions:
+
+- [Full Stack Developer](./fullstack-developer-mid.md)
 
 ## Not finding your job offer but still interested in DeWocracy?
 
