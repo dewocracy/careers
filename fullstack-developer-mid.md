@@ -54,7 +54,7 @@ Our ideal candidate would be:
 
 ## The tech stack 💻
 
-*We believe in smart people, not tech stack experts*
+It doesn't matter if you know other tech stack. We are all deveolpers after all!
 
 You should be able learn and understand the current implementation:
 
@@ -65,13 +65,12 @@ You should be able learn and understand the current implementation:
 
 Don't you like this stack for very valid reasons? Worry not! Come, tell us why and let's improve our code together 🤝
 
-We don't have a legacy, it's all new, and we've tried to make it simple (we 💚 [KISS principle](https://en.wikipedia.org/wiki/KISS_principle))
+We don't have a legacy, it's all new, and we've tried to make it simple (we 💚 [the KISS principle](https://en.wikipedia.org/wiki/KISS_principle))
 
 ## Reach us! 💌
 
 Use one of these methods!
 
-Email: info@dewocracy.com
-Form: https://dewocracy.com/#contact
+Email: careers@dewocracy.com
 
 <a href="https://www.linkedin.com/company/dewocracy/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_likedin-512.png" alt="linkedin" width="20"/></a>  <a href="https://twitter.com/de_wocracy" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="twitter" width="20"/></a>
