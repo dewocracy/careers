@@ -33,10 +33,10 @@ As said, we are building the future of work, meaning we want to lead by example 
 Things we can offer:
 
 - Create an impact from day 1. We are an early-stage Startup, so there's plenty of things to do!
-- Working hand to hand with our experienced dev Gerard. Say hi through [his LinkedIn](https://www.linkedin.com/in/gerardbrull/)
+- Working hand to hand with our experienced dev.
 - No bullshit, we are transparent and humble
 - More than average number of stock options
-- Competitive salary for an early-stage Startup. First, ~20-30k after the investment seed round, it will be higher!
+- Competitive salary for an early-stage Startup. First, ~25-35k after the investment seed round, it will be higher!
 
 
 ## We want you! 👉
@@ -48,13 +48,11 @@ Our ideal candidate would be:
 - Passionate about software development. Very motivated to learn every day.
 - A good teammate. We will spend a lot of time together!
 - With a good startup mentality. Eager to participate and to work proactively.
-- A clean code and attention to detail lover
-- Bonus: +2 years of experience in the production environment web/mobile apps.
+- A clean code and attention to detail lover.
+- Bonus: +2 years of experience in the production environment web/mobile apps with similar tech stack.
 
 
-## The tech stack 💻
-
-It doesn't matter if you know other tech stack. We are all deveolpers after all!
+## Tech stack 💻
 
 You should be able learn and understand the current implementation:
 
@@ -63,9 +61,18 @@ You should be able learn and understand the current implementation:
 - Backend: [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 - Data Base: [MongoDB Atlas](https://www.mongodb.com)
 
+It doesn't matter if you don't know all our tech stack. We are all deveolpers after all!
+
 Don't you like this stack for very valid reasons? Worry not! Come, tell us why and let's improve our code together 🤝
 
 We don't have a legacy, it's all new, and we've tried to make it simple (we 💚 [the KISS principle](https://en.wikipedia.org/wiki/KISS_principle))
+
+## Process 🏁
+
+1. Initial filter by reading your CV/LinkedIn/Github or anything you can provide us. We only do this in case we have a large number of applications.
+2. Call with one of us which includes a small tech exercise (it shouldn't take more than 2h)
+3. Call with the rest of the team 
+4. We send an offer :)
 
 ## Reach us! 💌
 
