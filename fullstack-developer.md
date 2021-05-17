@@ -48,7 +48,7 @@ Our ideal candidate would be:
 - Passionate about software development. Very motivated to learn every day.
 - A good teammate. We will spend a lot of time together!
 - With a good startup mentality. Eager to participate and to work proactively.
-- A clean code and attention to detail lover
+- A clean code and attention to detail lover.
 - Bonus: +2 years of experience in the production environment web/mobile apps with similar tech stack.
 
 
@@ -69,7 +69,7 @@ We don't have a legacy, it's all new, and we've tried to make it simple (we 💚
 
 ## Process 🏁
 
-1. Initial filter by reading your CV/LinkedIn/Github or anything you can provide us. We only do that in case we have a huge amount of requests.
+1. Initial filter by reading your CV/LinkedIn/Github or anything you can provide us. We only do this in case we have a large number of applications.
 2. Call with one of us which includes a small tech exercise (it shouldn't take more than 2h)
 3. Call with the rest of the team 
 4. We send an offer :)
