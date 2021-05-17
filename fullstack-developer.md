@@ -36,7 +36,7 @@ Things we can offer:
 - Working hand to hand with our experienced dev.
 - No bullshit, we are transparent and humble
 - More than average number of stock options
-- Competitive salary for an early-stage Startup. First, ~20-30k after the investment seed round, it will be higher!
+- Competitive salary for an early-stage Startup. First, ~25-35k after the investment seed round, it will be higher!
 
 
 ## We want you! 👉
