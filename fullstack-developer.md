@@ -18,15 +18,15 @@ Please take a look at [our website](https://dewocracy.com) for the latest news o
 
 ## Our culture 👩🏽‍🎤
 
-As said, we are building the future of work, meaning we want to lead by example by:
+We are building the future of work, meaning we want to lead by example by:
 
-- Having empathy and honesty in a flat org structure
-- Working remotely with objectives, not timeshifts
-- Believing that fearless intelligent choices are the way to success
-- Staying flexible and pragmatic
-- Learning by doing. [It's ok to...](https://govdesign.tumblr.com/post/144909646023/its-ok-to)
+- Having empathy and honesty in a flat org structure.
+- Working remotely with objectives, not timeshifts.
+- Believing that fearless intelligent choices are the way to success.
+- Staying flexible and pragmatic.
+- Learning by doing. [It's ok to...](https://govdesign.tumblr.com/post/144909646023/its-ok-to).
 - Being simply different. We belive that diveristy is a game changer.
-- Loving async communication
+- Loving async communication.
 
 ## Our offer 💡
 
@@ -34,9 +34,9 @@ Things we can offer:
 
 - Create an impact from day 1. We are an early-stage Startup, so there's plenty of things to do!
 - Working hand to hand with our experienced dev.
-- No bullshit, we are transparent and humble
-- More than average number of stock options
-- Competitive salary for an early-stage Startup. First, ~25-35k after the investment seed round, it will be higher!
+- No bullshit, we are transparent and humble.
+- More than average number of stock options.
+- Competitive salary for an early-stage Startup. First, ~25 - ~35k after the investment seed round, it will be higher!
 
 
 ## We want you! 👉
@@ -63,15 +63,15 @@ You should be able learn and understand the current implementation:
 
 It doesn't matter if you don't know all our tech stack. We are all deveolpers after all!
 
-Don't you like this stack for very valid reasons? Worry not! Come, tell us why and let's improve our code together 🤝
+Don't you like this stack for very valid reasons? Worry not! Come, tell us why and let's improve our code together. 🤝
 
 We don't have a legacy, it's all new, and we've tried to make it simple (we 💚 [the KISS principle](https://en.wikipedia.org/wiki/KISS_principle))
 
 ## Process 🏁
 
 1. Initial filter by reading your CV/LinkedIn/Github or anything you can provide us. We only do this in case we have a large number of applications.
-2. Call with one of us which includes a small tech exercise (it shouldn't take more than 2h)
-3. Call with the rest of the team 
+2. Call with one of us which includes a small tech exercise (it shouldn't take more than 2h).
+3. Call with the rest of the team.
 4. We send an offer :)
 
 ## Reach us! 💌
