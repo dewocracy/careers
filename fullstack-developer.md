@@ -31,8 +31,8 @@ Things we can offer:
 - Create an impact from day 1. We are an early-stage Startup, so there's plenty of things to do!
 - Working hand to hand with our experienced dev.
 - No bullshit, we are transparent and humble.
-- More than average number of stock options.
-- Competitive salary for an early-stage Startup. First, ~25 - ~35k after the investment seed round, it will be higher!
+- Equity! Generous phantom shares scheme.
+- Competitive salary for an early-stage Startup. You will start at ~25 - ~35k, higher after securing a seed investment round!
 
 
 ## We want you! 👉
