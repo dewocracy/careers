@@ -1,9 +1,5 @@
 # Full-stack developer
 
-<p style="text-aling:center;">
-    <img src="https://media.giphy.com/media/j3hPcb6njMd0NAAbvV/giphy-downsized.gif" alt="" width="200" />
-</p>
-
 ## About us 💜
 
 We are building the technology for the future of work 💫
