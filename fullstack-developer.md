@@ -45,7 +45,8 @@ Our ideal candidate would be:
 - A good teammate. We will spend a lot of time together!
 - With a good startup mentality. Eager to participate and to work proactively.
 - A clean code and attention to detail lover.
-- Bonus: +2 years of experience in the production environment web/mobile apps with similar tech stack.
+- _Bonus_: +2 years of experience in the production environment web/mobile apps with similar tech stack.
+- _Edit 25/05/2020_: At the moment, due the technical roadmap, we need someone who already have experience with Python
 
 
 ## Tech stack 💻
@@ -54,7 +55,7 @@ You should be able learn and understand the current implementation:
 
 - Mobile App: [React Native](https://reactnative.dev/) with [Expo](https://expo.io/)
 - Web: [ReactJS](https://reactjs.org/)
-- Backend: [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+- Backend: [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/1.1.x/) 
 - Data Base: [MongoDB Atlas](https://www.mongodb.com)
 
 It doesn't matter if you don't know all our tech stack. We are all deveolpers after all!
