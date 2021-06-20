@@ -14,14 +14,14 @@ Please take a look at [our website](https://dewocracy.com) for the latest news o
 
 ## Our culture 👩🏽‍🎤
 
-We are building the future of work, meaning we want to lead by example by:
+We are building the future of work, so we want to lead by example by:
 
 - Having empathy and honesty in a flat org structure.
-- Working remotely with objectives, not timeshifts.
+- Working remotely with objectives, not time shifts.
 - Believing that fearless intelligent choices are the way to success.
 - Staying flexible and pragmatic.
 - Learning by doing. [It's ok to...](https://govdesign.tumblr.com/post/144909646023/its-ok-to).
-- Being simply different. We belive that diveristy is a game changer.
+- Being simply different. We believe that diveristy is a game changer.
 - Loving async communication.
 
 ## Our offer 💡
@@ -29,10 +29,10 @@ We are building the future of work, meaning we want to lead by example by:
 Things we can offer:
 
 - Create an impact from day 1. We are an early-stage Startup, so there's plenty of things to do!
-- Working hand to hand with our experienced dev.
+- Working hand to hand with our CTO and other experienced devs.
 - No bullshit, we are transparent and humble.
-- Equity! Generous phantom shares scheme.
-- Competitive salary for an early-stage Startup. You will start at ~25 - ~35k, higher after securing a seed investment round!
+- Generous equity compensation (phantom shares).
+- Competitive salary for an early-stage Startup. First, ~25 - ~35k after the investment seed round, it will be higher!
 
 
 ## We want you! 👉
@@ -45,7 +45,8 @@ Our ideal candidate would be:
 - A good teammate. We will spend a lot of time together!
 - With a good startup mentality. Eager to participate and to work proactively.
 - A clean code and attention to detail lover.
-- Bonus: +2 years of experience in the production environment web/mobile apps with similar tech stack.
+- _Bonus_: +2 years of experience in the production environment web/mobile apps with similar tech stack.
+- At the moment, due the technical roadmap, we need someone who already have experience with Python and React
 
 
 ## Tech stack 💻
@@ -54,10 +55,10 @@ You should be able learn and understand the current implementation:
 
 - Mobile App: [React Native](https://reactnative.dev/) with [Expo](https://expo.io/)
 - Web: [ReactJS](https://reactjs.org/)
-- Backend: [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+- Backend: [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/1.1.x/) 
 - Data Base: [MongoDB Atlas](https://www.mongodb.com)
 
-It doesn't matter if you don't know all our tech stack. We are all deveolpers after all!
+It doesn't matter if you don't know all our tech stack. We are all developers after all!
 
 Don't you like this stack for very valid reasons? Worry not! Come, tell us why and let's improve our code together. 🤝
 
@@ -65,7 +66,7 @@ We don't have a legacy, it's all new, and we've tried to make it simple (we 💚
 
 ## Process 🏁
 
-1. Initial filter by reading your CV/LinkedIn/Github or anything you can provide us. We only do this in case we have a large number of applications.
+1. Initial filter by reading your CV/LinkedIn/Github or anything you can provide us.
 2. Call with one of us which includes a small tech exercise (it shouldn't take more than 2h).
 3. Call with the rest of the team.
 4. We send an offer :)
