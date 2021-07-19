@@ -2,9 +2,9 @@
 
 Feel free to subscribe to this repo to get notified of new job offers!
 
-Opened positions:
+Open positions: 
 
-- [Full Stack Developer](./fullstack-developer.md)
+_Sorry, we don't have open positions at the moment_
 
 ## Not finding your job offer but still interested in DeWocracy?
 
