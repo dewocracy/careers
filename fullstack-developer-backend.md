@@ -6,7 +6,7 @@
 
 ## About us 💜
 
-We are DeWocracy and we build technology for the future of work 💫
+We are DeWocracy, and we build technology for the future of work 💫
 
 Did you know that 40% of office space worldwide is unused? 🤯 It's crazy, right?!
 
@@ -31,28 +31,29 @@ We are building the future of work, so we want to lead by example by:
 
 Things we can offer:
 
+- 6 month secured contract. We are looking for more investors!
+- Salary ~30 - ~42k, that's what we can offer now but after more investment rounds, it will be higher!
 - Create an impact from day 1. We are an early-stage Startup, so there's plenty of things to do!
-- Working with the latest tech. We don't have legacy and we are happy to try new tools and tech stack.
-- No bullshit, we are transparent and humble. 
+- Working with the latest tech. We don't have legacy and we are happy to try new tools and tech stacks.
+- No bullshit, we are transparent and humble. We understand we are all humans and we do mistakes.
 - Generous equity compensation (phantom shares).
-- Competitive salary for an early-stage Startup. First, ~25 - ~35k after the investment seed round, it will be higher!
-- Mentoring a new junior dev we will hire soon 💪
-- We can offer 4 days of work (or whatever is your preffered way of working)
+- Mentoring a new junior dev we will hire soon with your help 💪
+- We can offer 4 days of work (or whatever is your preferred way of working)
 
 
 ## We want you! 👉
 
-We are looking for the 5th member to join our team!
+We are looking for a 5th member to join our team!
 
 Our ideal companion would be:
 
 - Passionate about software development. Very motivated to learn every day.
-- Experiencied developer with Backend focus with a bit of Frontend experience or eager to learn it in case is need it (we are a small team).
+- Experienced developer with Backend focus with a bit of Frontend experience or eager to learn it in case is need it (we are a small team).
 - A good teammate. We will spend a lot of time together!
 - Good startup mentality. Eager to participate and to work proactively.
 - A clean code and attention to detail lover.
-- _Bonus_: +2 years of experience in the production environment web/mobile apps with similar tech stack.
-- _Bonus_: Experience with Python, MongoDB and React
+- Experienced in production with similar tech stack.
+- Experience with Python, MongoDB and React or motivated to learn it
 
 
 ## Tech stack 💻
@@ -73,7 +74,7 @@ We don't have a legacy, it's all new, and we've tried to make it simple (we 💚
 ## Process 🏁
 
 1. Initial filter by reading your CV/LinkedIn/Github or anything you can provide us.
-2. Call with one of us which includes a small tech exercise. _Depending on the candindate experience this step will be skip_
+2. Call with one of us which includes a small tech exercise. _Depending on the candindate experience this step will be skipped_
 3. Call with the rest of the team.
 4. We send an offer :)
 
