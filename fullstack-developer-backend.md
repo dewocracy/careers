@@ -31,8 +31,8 @@ We are building the future of work, so we want to lead by example by:
 
 Things we can offer:
 
-- 6 month secured contract. We are looking for more investors!
-- Salary ~30 - ~42k, that's what we can offer now but after more investment rounds, it will be higher!
+- 6 month 100% secure contract and planning to extend it. [We are looking for more investors](https://dewocracy.com/#contact)!
+- Salary ~30 - ~42k, that's what we can offer now.
 - Create an impact from day 1. We are an early-stage Startup, so there's plenty of things to do!
 - Working with the latest tech. We don't have legacy and we are happy to try new tools and tech stacks.
 - No bullshit, we are transparent and humble. We understand we are all humans and we do mistakes.
@@ -48,7 +48,7 @@ We are looking for a 5th member to join our team!
 Our ideal companion would be:
 
 - Passionate about software development. Very motivated to learn every day.
-- Experienced developer with Backend focus with a bit of Frontend experience or eager to learn it in case is need it (we are a small team).
+- Experienced developer with Backend focus in mind eager to learn other tech stacks too (that's why we say fullstack).
 - A good teammate. We will spend a lot of time together!
 - Good startup mentality. Eager to participate and to work proactively.
 - A clean code and attention to detail lover.
