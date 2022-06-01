@@ -1,52 +1,58 @@
-# Full-stack developer
+# Full-stack developer (Backend focused)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/7198934/171342045-41bb0337-0017-4f3f-99b7-131c42c81061.png" alt="DeWocracy app" width="400"/>
+</p>
 
 ## About us 💜
 
-We are building the technology for the future of work 💫
+We are DeWocracy and we build technology for the future of work 💫
 
 Did you know that 40% of office space worldwide is unused? 🤯 It's crazy, right?!
 
 Fear not! DeWocracy to the rescue! (_...epic music playing..._).
 
-Our mission is to help companies transition towards a more flexible work culture.
+Our mission is to help companies transition towards a more flexible work culture with a hybrid model.
 
-Please take a look at [our website](https://dewocracy.com) for the latest news of our products.
+Please take a look at [our website](https://dewocracy.com) for context.
 
 ## Our culture 👩🏽‍🎤
 
 We are building the future of work, so we want to lead by example by:
 
 - Having empathy and honesty in a flat org structure.
-- Working remotely with objectives, not time shifts.
-- Believing that fearless intelligent choices are the way to success.
-- Staying flexible and pragmatic.
-- Learning by doing. [It's ok to...](https://govdesign.tumblr.com/post/144909646023/its-ok-to).
+- Working remotely, 100% async, anywhere in the world, and with flexible time. We use [Remote](https://remote.com/).
+- Believing that fearless pragmatic choices are the way to success.
+- Staying flexible. We are a Startup so things changes quickly.
+- Learning by doing and supporting each other. [It's ok to...](https://govdesign.tumblr.com/post/144909646023/its-ok-to).
 - Being simply different. We believe that diveristy is a game changer.
-- Loving async communication.
 
 ## Our offer 💡
 
 Things we can offer:
 
 - Create an impact from day 1. We are an early-stage Startup, so there's plenty of things to do!
-- Working hand to hand with our CTO and other experienced devs.
-- No bullshit, we are transparent and humble.
+- Working with the latest tech. We don't have legacy and we are happy to try new tools and tech stack.
+- No bullshit, we are transparent and humble. 
 - Generous equity compensation (phantom shares).
 - Competitive salary for an early-stage Startup. First, ~25 - ~35k after the investment seed round, it will be higher!
+- Mentoring a new junior dev we will hire soon 💪
+- We can offer 4 days of work (or whatever is your preffered way of working)
 
 
 ## We want you! 👉
 
-We are looking for the 4th member to join our team!
+We are looking for the 5th member to join our team!
 
-Our ideal candidate would be:
+Our ideal companion would be:
 
 - Passionate about software development. Very motivated to learn every day.
+- Experiencied developer with Backend focus with a bit of Frontend experience or eager to learn it in case is need it (we are a small team).
 - A good teammate. We will spend a lot of time together!
-- With a good startup mentality. Eager to participate and to work proactively.
+- Good startup mentality. Eager to participate and to work proactively.
 - A clean code and attention to detail lover.
 - _Bonus_: +2 years of experience in the production environment web/mobile apps with similar tech stack.
-- _Edit 25/05/2021_: At the moment, due the technical roadmap, we need someone who already have experience with Python and React
+- _Bonus_: Experience with Python, MongoDB and React
 
 
 ## Tech stack 💻
@@ -67,7 +73,7 @@ We don't have a legacy, it's all new, and we've tried to make it simple (we 💚
 ## Process 🏁
 
 1. Initial filter by reading your CV/LinkedIn/Github or anything you can provide us.
-2. Call with one of us which includes a small tech exercise (it shouldn't take more than 2h).
+2. Call with one of us which includes a small tech exercise. _Depending on the candindate experience this step will be skip_
 3. Call with the rest of the team.
 4. We send an offer :)
 
