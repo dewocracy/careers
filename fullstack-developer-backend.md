@@ -23,7 +23,7 @@ We are building the future of work, so we want to lead by example by:
 - Having empathy and honesty in a flat org structure.
 - Working remotely, 100% async, anywhere in the world, and with flexible time. We use [Remote](https://remote.com/).
 - Believing that fearless pragmatic choices are the way to success.
-- Staying flexible. We are a Startup so things changes quickly.
+- Staying flexible. We are a Startup so things change quickly.
 - Learning by doing and supporting each other. [It's ok to...](https://govdesign.tumblr.com/post/144909646023/its-ok-to).
 - Being simply different. We believe that diveristy is a game changer.
 
@@ -38,7 +38,7 @@ Things we can offer:
 - No bullshit, we are transparent and humble. We understand we are all humans and we do mistakes.
 - Generous equity compensation (phantom shares).
 - Mentoring a new junior dev we will hire soon with your help 💪
-- We can offer 4 days of work (or whatever is your preferred way of working)
+- We offer a 4-day work week option
 
 
 ## We want you! 👉
